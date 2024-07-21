@@ -6,3 +6,12 @@
 background-color: #cfffbb;
 }
 
+.heading-color, .para-color, .list-color {
+    color: #36454f;
+}
+
+.heading-font, .para-font, .list-font {
+    font-family: Verdana, sans-serif;
+}
+
+
