@@ -29,3 +29,8 @@ background-color: #cfffbb;
 .smaller-heading-size {
     font-size: 30px;
 }
+
+.image-size {
+    height: auto;
+    width: 600px;
+}
