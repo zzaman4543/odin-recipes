@@ -9,6 +9,13 @@
     padding: 0;
 }
 
+.main-heading-box {
+    width: 300px;
+    margin: 0 auto;
+    padding: 10px;
+    border: 5px solid #36454f;
+}
+
 body {
 background-color: #cfffbb;
 }
