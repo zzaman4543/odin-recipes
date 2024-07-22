@@ -9,6 +9,10 @@
     padding: 0;
 }
 
+body {
+background-color: #cfffbb;
+}
+
 .heading-background-color {
     background-color: #E4F6F8;
 }
