@@ -4,4 +4,4 @@ The [Recipes](https://www.theodinproject.com/lessons/foundations-recipes) projec
 
 After completing the HTML part of this project, I have displayed the following skills: an ability to use boilerplate HTML, heading elements, relative links through anchor elements, absolute paths through image elements, paragraph elements, as well as unordered and ordered list elements. 
 
-Having completing the CSS part of this project, I have demonstrated these skills: an ability to use external CSS, class selectors, the background-color property, the color property, the font-family property, the text-align property, the font-size property, the height property, and the width property. 
+Having completed the CSS part of this project, I have demonstrated these skills: an ability to use external CSS, class selectors, the background-color property, the color property, the font-family property, the text-align property, the font-size property, the height property, and the width property. 
