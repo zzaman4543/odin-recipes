@@ -13,19 +13,25 @@
     background-color: #E4F6F8;
 }
 
-.list-background-color,.para-background-color {
+.list-background-color,
+.para-background-color {
 background-color: #cfffbb;
 }
 
-.heading-color, .para-color, .list-color {
+.heading-color, 
+.para-color, 
+.list-color {
     color: #36454f;
 }
 
-.heading-font, .para-font, .list-font {
+.heading-font, 
+.para-font, 
+.list-font {
     font-family: Verdana, sans-serif;
 }
 
-.heading-alignment, .para-alignment {
+.heading-alignment, 
+.para-alignment {
     text-align: center;
 }
 
@@ -33,7 +39,8 @@ background-color: #cfffbb;
     font-size: 40px;
 }
 
-.list-size, .para-size {
+.list-size, 
+.para-size {
     font-size: 20px;
 }
 
