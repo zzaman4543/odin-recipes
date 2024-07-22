@@ -16,6 +16,10 @@
     border: 5px solid #36454f;
 }
 
+.home-alignment {
+    text-align: center;
+}
+
 body {
 background-color: #cfffbb;
 }
@@ -39,8 +43,7 @@ background-color: #cfffbb;
 .list-font {
     font-family: Verdana, sans-serif;
 }
-
-.heading-alignment, 
+ 
 .para-alignment {
     text-align: center;
 }
